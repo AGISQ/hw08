@@ -1,0 +1,8 @@
+streamlit
+langchain==0.1.10
+langchain-community==0.0.20
+langchain-text-splitters
+sentence-transformers
+chromadb
+python-docx
+unstructured
